@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Divjyo15/chatapp/static/css/main.31d58d36.css",
+    "main.js": "/Divjyo15/chatapp/static/js/main.6056ce79.js",
+    "index.html": "/Divjyo15/chatapp/index.html",
+    "main.31d58d36.css.map": "/Divjyo15/chatapp/static/css/main.31d58d36.css.map",
+    "main.6056ce79.js.map": "/Divjyo15/chatapp/static/js/main.6056ce79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d58d36.css",
+    "static/js/main.6056ce79.js"
+  ]
+}
